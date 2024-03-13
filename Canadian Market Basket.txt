@@ -1,0 +1,38 @@
+Canadian Market Basket = 100%
+
+28.34%
+Canada shelter - rent 
+Canada shelter - costs
+Canada shelter - price
+Canada shelter - Rates
+Canada shelter - housing
+Canada shelter - homeowner
+
+
+14.36%
+Canada Household - price, costs operations
+Canada Household - price, costs furnishings 
+Canada Household - price, costs equipment
+Canada Household - price, costs utilities	
+
+
+16.44%
+Canada public transportation - gasoline, prices 
+Canada private transportation - gasoline, prices
+Canada transportation - maintenance and repair, prices
+
+
+Canada clothing price,costs         4.73%
+Canada health care price,costs      5.03%
+Canada recreation price,costs       9.92%
+Canada alcohol price,costs          4.53%
+
+
+
+
+
+
+
+
+
+
